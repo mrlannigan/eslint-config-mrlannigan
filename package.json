@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/mrlannigan/eslint-config-mrlannigan/issues"
   },
-  "homepage": "https://github.com/mrlannigan/eslint-config-mrlannigan#readme"
+  "homepage": "https://github.com/mrlannigan/eslint-config-mrlannigan#readme",
   "dependencies": {
     "eslint": "^3.10.0",
     "eslint-config-airbnb-base": "^10.0.1",
